@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+plotly
+plotly.express
+openpyxl
+jinja2
+fpdf2
+matplotlib
+pywin32
+kaleido
+pillow
+streamlit-dynamic-filters
